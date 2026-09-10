@@ -1,0 +1,1249 @@
+"","Treatment","Metric","BFx","BFy","BFxy","Value"
+"1","Flow reduction
+& Fine sediment
+addition","EPT (abundance)",1,0,"BF10",6.58108108108108
+"2","Flow reduction
+& Fine sediment
+addition","EPT (abundance)",2,0,"BF20",3.91891891891892
+"3","Flow reduction
+& Fine sediment
+addition","EPT (abundance)",3,0,"BF30",2.01351351351351
+"4","Flow reduction
+& Fine sediment
+addition","EPT (abundance)",2,1,"BF21",0.595482546201232
+"5","Flow reduction
+& Fine sediment
+addition","EPT (abundance)",3,1,"BF31",0.305954825462012
+"6","Flow reduction
+& Fine sediment
+addition","EPT (abundance)",3,2,"BF32",0.513793103448276
+"7","Flow reduction
+& Fine sediment
+addition","% EPT",1,0,"BF10",6.33766233766234
+"8","Flow reduction
+& Fine sediment
+addition","% EPT",2,0,"BF20",3.79220779220779
+"9","Flow reduction
+& Fine sediment
+addition","% EPT",3,0,"BF30",1.85714285714286
+"10","Flow reduction
+& Fine sediment
+addition","% EPT",2,1,"BF21",0.598360655737705
+"11","Flow reduction
+& Fine sediment
+addition","% EPT",3,1,"BF31",0.293032786885246
+"12","Flow reduction
+& Fine sediment
+addition","% EPT",3,2,"BF32",0.48972602739726
+"13","Flow reduction
+& Fine sediment
+addition","EPT (number taxa)",1,0,"BF10",18.9183673469388
+"14","Flow reduction
+& Fine sediment
+addition","EPT (number taxa)",2,0,"BF20",0.489795918367347
+"15","Flow reduction
+& Fine sediment
+addition","EPT (number taxa)",3,0,"BF30",0
+"16","Flow reduction
+& Fine sediment
+addition","EPT (number taxa)",2,1,"BF21",0.0258899676375405
+"17","Flow reduction
+& Fine sediment
+addition","EPT (number taxa)",3,1,"BF31",0
+"18","Flow reduction
+& Fine sediment
+addition","EPT (number taxa)",3,2,"BF32",0
+"19","Flow reduction
+& Fine sediment
+addition","% Lotic",1,0,"BF10",7.39784946236559
+"20","Flow reduction
+& Fine sediment
+addition","% Lotic",2,0,"BF20",2.02150537634409
+"21","Flow reduction
+& Fine sediment
+addition","% Lotic",3,0,"BF30",0.333333333333333
+"22","Flow reduction
+& Fine sediment
+addition","% Lotic",2,1,"BF21",0.273255813953488
+"23","Flow reduction
+& Fine sediment
+addition","% Lotic",3,1,"BF31",0.0450581395348837
+"24","Flow reduction
+& Fine sediment
+addition","% Lotic",3,2,"BF32",0.164893617021277
+"25","Flow reduction
+& Fine sediment
+addition","Fast/Slow flow (adapt., ratio)",1,0,"BF10",7.15957446808511
+"26","Flow reduction
+& Fine sediment
+addition","Fast/Slow flow (adapt., ratio)",2,0,"BF20",2.25531914893617
+"27","Flow reduction
+& Fine sediment
+addition","Fast/Slow flow (adapt., ratio)",3,0,"BF30",0.223404255319149
+"28","Flow reduction
+& Fine sediment
+addition","Fast/Slow flow (adapt., ratio)",2,1,"BF21",0.315007429420505
+"29","Flow reduction
+& Fine sediment
+addition","Fast/Slow flow (adapt., ratio)",3,1,"BF31",0.0312035661218425
+"30","Flow reduction
+& Fine sediment
+addition","Fast/Slow flow (adapt., ratio)",3,2,"BF32",0.0990566037735849
+"31","Flow reduction
+& Fine sediment
+addition","% Gill breather",1,0,"BF10",2.5
+"32","Flow reduction
+& Fine sediment
+addition","% Gill breather",2,0,"BF20",0.181481481481481
+"33","Flow reduction
+& Fine sediment
+addition","% Gill breather",3,0,"BF30",0.0222222222222222
+"34","Flow reduction
+& Fine sediment
+addition","% Gill breather",2,1,"BF21",0.0725925925925926
+"35","Flow reduction
+& Fine sediment
+addition","% Gill breather",3,1,"BF31",0.00888888888888889
+"36","Flow reduction
+& Fine sediment
+addition","% Gill breather",3,2,"BF32",0.122448979591837
+"37","Flow reduction
+& Fine sediment
+addition","Gils/Tegument (ratio)",1,0,"BF10",2.57677902621723
+"38","Flow reduction
+& Fine sediment
+addition","Gils/Tegument (ratio)",2,0,"BF20",0.168539325842697
+"39","Flow reduction
+& Fine sediment
+addition","Gils/Tegument (ratio)",3,0,"BF30",0.00374531835205993
+"40","Flow reduction
+& Fine sediment
+addition","Gils/Tegument (ratio)",2,1,"BF21",0.0654069767441861
+"41","Flow reduction
+& Fine sediment
+addition","Gils/Tegument (ratio)",3,1,"BF31",0.00145348837209302
+"42","Flow reduction
+& Fine sediment
+addition","Gils/Tegument (ratio)",3,2,"BF32",0.0222222222222222
+"43","Flow reduction
+& Fine sediment
+addition","Non EPT fast flow (adapt., rel. abd.)",1,0,"BF10",9.38202247191011
+"44","Flow reduction
+& Fine sediment
+addition","Non EPT fast flow (adapt., rel. abd.)",2,0,"BF20",0.842696629213483
+"45","Flow reduction
+& Fine sediment
+addition","Non EPT fast flow (adapt., rel. abd.)",3,0,"BF30",0.0112359550561798
+"46","Flow reduction
+& Fine sediment
+addition","Non EPT fast flow (adapt., rel. abd.)",2,1,"BF21",0.0898203592814371
+"47","Flow reduction
+& Fine sediment
+addition","Non EPT fast flow (adapt., rel. abd.)",3,1,"BF31",0.00119760479041916
+"48","Flow reduction
+& Fine sediment
+addition","Non EPT fast flow (adapt., rel. abd.)",3,2,"BF32",0.0133333333333333
+"49","Flow reduction
+& Fine sediment
+addition","% Scraper",1,0,"BF10",2.22801302931596
+"50","Flow reduction
+& Fine sediment
+addition","% Scraper",2,0,"BF20",0.0293159609120521
+"51","Flow reduction
+& Fine sediment
+addition","% Scraper",3,0,"BF30",0
+"52","Flow reduction
+& Fine sediment
+addition","% Scraper",2,1,"BF21",0.0131578947368421
+"53","Flow reduction
+& Fine sediment
+addition","% Scraper",3,1,"BF31",0
+"54","Flow reduction
+& Fine sediment
+addition","% Scraper",3,2,"BF32",0
+"55","Flow reduction
+& Fine sediment
+addition","Slow flow adapt. (rel. abundance)",1,0,"BF10",1.05405405405405
+"56","Flow reduction
+& Fine sediment
+addition","Slow flow adapt. (rel. abundance)",2,0,"BF20",0.0228690228690229
+"57","Flow reduction
+& Fine sediment
+addition","Slow flow adapt. (rel. abundance)",3,0,"BF30",0.00207900207900208
+"58","Flow reduction
+& Fine sediment
+addition","Slow flow adapt. (rel. abundance)",2,1,"BF21",0.0216962524654832
+"59","Flow reduction
+& Fine sediment
+addition","Slow flow adapt. (rel. abundance)",3,1,"BF31",0.0019723865877712
+"60","Flow reduction
+& Fine sediment
+addition","Slow flow adapt. (rel. abundance)",3,2,"BF32",0.0909090909090909
+"61","Flow reduction
+& Fine sediment
+addition","Tot. richness",1,0,"BF10",10.3181818181818
+"62","Flow reduction
+& Fine sediment
+addition","Tot. richness",2,0,"BF20",0.0454545454545455
+"63","Flow reduction
+& Fine sediment
+addition","Tot. richness",3,0,"BF30",0
+"64","Flow reduction
+& Fine sediment
+addition","Tot. richness",2,1,"BF21",0.00440528634361233
+"65","Flow reduction
+& Fine sediment
+addition","Tot. richness",3,1,"BF31",0
+"66","Flow reduction
+& Fine sediment
+addition","Tot. richness",3,2,"BF32",0
+"67","Flow reduction
+& Fine sediment
+addition","Tagument (rel. abundance)",1,0,"BF10",1.60695187165775
+"68","Flow reduction
+& Fine sediment
+addition","Tagument (rel. abundance)",2,0,"BF20",0.0668449197860963
+"69","Flow reduction
+& Fine sediment
+addition","Tagument (rel. abundance)",3,0,"BF30",0
+"70","Flow reduction
+& Fine sediment
+addition","Tagument (rel. abundance)",2,1,"BF21",0.0415973377703827
+"71","Flow reduction
+& Fine sediment
+addition","Tagument (rel. abundance)",3,1,"BF31",0
+"72","Flow reduction
+& Fine sediment
+addition","Tagument (rel. abundance)",3,2,"BF32",0
+"73","Flow reduction
+& Fine sediment
+addition","Tot. abundance",1,0,"BF10",6.65891472868217
+"74","Flow reduction
+& Fine sediment
+addition","Tot. abundance",2,0,"BF20",0.0930232558139535
+"75","Flow reduction
+& Fine sediment
+addition","Tot. abundance",3,0,"BF30",0
+"76","Flow reduction
+& Fine sediment
+addition","Tot. abundance",2,1,"BF21",0.0139697322467986
+"77","Flow reduction
+& Fine sediment
+addition","Tot. abundance",3,1,"BF31",0
+"78","Flow reduction
+& Fine sediment
+addition","Tot. abundance",3,2,"BF32",0
+"79","Flow reduction
+& Fine sediment
+addition
+& N/P addition","EPT (abundance)",1,0,"BF10",4.92561983471074
+"80","Flow reduction
+& Fine sediment
+addition
+& N/P addition","EPT (abundance)",2,0,"BF20",1.90909090909091
+"81","Flow reduction
+& Fine sediment
+addition
+& N/P addition","EPT (abundance)",3,0,"BF30",0.429752066115702
+"82","Flow reduction
+& Fine sediment
+addition
+& N/P addition","EPT (abundance)",2,1,"BF21",0.38758389261745
+"83","Flow reduction
+& Fine sediment
+addition
+& N/P addition","EPT (abundance)",3,1,"BF31",0.087248322147651
+"84","Flow reduction
+& Fine sediment
+addition
+& N/P addition","EPT (abundance)",3,2,"BF32",0.225108225108225
+"85","Flow reduction
+& Fine sediment
+addition
+& N/P addition","% EPT",1,0,"BF10",4.31884057971014
+"86","Flow reduction
+& Fine sediment
+addition
+& N/P addition","% EPT",2,0,"BF20",1.31884057971014
+"87","Flow reduction
+& Fine sediment
+addition
+& N/P addition","% EPT",3,0,"BF30",0.608695652173913
+"88","Flow reduction
+& Fine sediment
+addition
+& N/P addition","% EPT",2,1,"BF21",0.305369127516779
+"89","Flow reduction
+& Fine sediment
+addition
+& N/P addition","% EPT",3,1,"BF31",0.140939597315436
+"90","Flow reduction
+& Fine sediment
+addition
+& N/P addition","% EPT",3,2,"BF32",0.461538461538462
+"91","Flow reduction
+& Fine sediment
+addition
+& N/P addition","EPT (number taxa)",1,0,"BF10",13.3333333333333
+"92","Flow reduction
+& Fine sediment
+addition
+& N/P addition","EPT (number taxa)",2,0,"BF20",0.787878787878788
+"93","Flow reduction
+& Fine sediment
+addition
+& N/P addition","EPT (number taxa)",3,0,"BF30",0.0303030303030303
+"94","Flow reduction
+& Fine sediment
+addition
+& N/P addition","EPT (number taxa)",2,1,"BF21",0.0590909090909091
+"95","Flow reduction
+& Fine sediment
+addition
+& N/P addition","EPT (number taxa)",3,1,"BF31",0.00227272727272727
+"96","Flow reduction
+& Fine sediment
+addition
+& N/P addition","EPT (number taxa)",3,2,"BF32",0.0384615384615385
+"97","Flow reduction
+& Fine sediment
+addition
+& N/P addition","% Lotic",1,0,"BF10",3.43010752688172
+"98","Flow reduction
+& Fine sediment
+addition
+& N/P addition","% Lotic",2,0,"BF20",0.709677419354839
+"99","Flow reduction
+& Fine sediment
+addition
+& N/P addition","% Lotic",3,0,"BF30",0.236559139784946
+"100","Flow reduction
+& Fine sediment
+addition
+& N/P addition","% Lotic",2,1,"BF21",0.206896551724138
+"101","Flow reduction
+& Fine sediment
+addition
+& N/P addition","% Lotic",3,1,"BF31",0.0689655172413793
+"102","Flow reduction
+& Fine sediment
+addition
+& N/P addition","% Lotic",3,2,"BF32",0.333333333333333
+"103","Flow reduction
+& Fine sediment
+addition
+& N/P addition","Fast/Slow flow (adapt., ratio)",1,0,"BF10",3.26237623762376
+"104","Flow reduction
+& Fine sediment
+addition
+& N/P addition","Fast/Slow flow (adapt., ratio)",2,0,"BF20",0.524752475247525
+"105","Flow reduction
+& Fine sediment
+addition
+& N/P addition","Fast/Slow flow (adapt., ratio)",3,0,"BF30",0.158415841584158
+"106","Flow reduction
+& Fine sediment
+addition
+& N/P addition","Fast/Slow flow (adapt., ratio)",2,1,"BF21",0.160849772382398
+"107","Flow reduction
+& Fine sediment
+addition
+& N/P addition","Fast/Slow flow (adapt., ratio)",3,1,"BF31",0.0485584218512898
+"108","Flow reduction
+& Fine sediment
+addition
+& N/P addition","Fast/Slow flow (adapt., ratio)",3,2,"BF32",0.30188679245283
+"109","Flow reduction
+& Fine sediment
+addition
+& N/P addition","% Gill breather",1,0,"BF10",2.06089743589744
+"110","Flow reduction
+& Fine sediment
+addition
+& N/P addition","% Gill breather",2,0,"BF20",0.131410256410256
+"111","Flow reduction
+& Fine sediment
+addition
+& N/P addition","% Gill breather",3,0,"BF30",0.016025641025641
+"112","Flow reduction
+& Fine sediment
+addition
+& N/P addition","% Gill breather",2,1,"BF21",0.0637636080870918
+"113","Flow reduction
+& Fine sediment
+addition
+& N/P addition","% Gill breather",3,1,"BF31",0.00777604976671851
+"114","Flow reduction
+& Fine sediment
+addition
+& N/P addition","% Gill breather",3,2,"BF32",0.121951219512195
+"115","Flow reduction
+& Fine sediment
+addition
+& N/P addition","Gils/Tegument (ratio)",1,0,"BF10",2.06089743589744
+"116","Flow reduction
+& Fine sediment
+addition
+& N/P addition","Gils/Tegument (ratio)",2,0,"BF20",0.131410256410256
+"117","Flow reduction
+& Fine sediment
+addition
+& N/P addition","Gils/Tegument (ratio)",3,0,"BF30",0.00961538461538462
+"118","Flow reduction
+& Fine sediment
+addition
+& N/P addition","Gils/Tegument (ratio)",2,1,"BF21",0.0637636080870918
+"119","Flow reduction
+& Fine sediment
+addition
+& N/P addition","Gils/Tegument (ratio)",3,1,"BF31",0.0046656298600311
+"120","Flow reduction
+& Fine sediment
+addition
+& N/P addition","Gils/Tegument (ratio)",3,2,"BF32",0.0731707317073171
+"121","Flow reduction
+& Fine sediment
+addition
+& N/P addition","Non EPT fast flow (adapt., rel. abd.)",1,0,"BF10",3.31506849315068
+"122","Flow reduction
+& Fine sediment
+addition
+& N/P addition","Non EPT fast flow (adapt., rel. abd.)",2,0,"BF20",0.242009132420091
+"123","Flow reduction
+& Fine sediment
+addition
+& N/P addition","Non EPT fast flow (adapt., rel. abd.)",3,0,"BF30",0.0136986301369863
+"124","Flow reduction
+& Fine sediment
+addition
+& N/P addition","Non EPT fast flow (adapt., rel. abd.)",2,1,"BF21",0.0730027548209366
+"125","Flow reduction
+& Fine sediment
+addition
+& N/P addition","Non EPT fast flow (adapt., rel. abd.)",3,1,"BF31",0.00413223140495868
+"126","Flow reduction
+& Fine sediment
+addition
+& N/P addition","Non EPT fast flow (adapt., rel. abd.)",3,2,"BF32",0.0566037735849057
+"127","Flow reduction
+& Fine sediment
+addition
+& N/P addition","% Scraper",1,0,"BF10",1.70833333333333
+"128","Flow reduction
+& Fine sediment
+addition
+& N/P addition","% Scraper",2,0,"BF20",0.0638888888888889
+"129","Flow reduction
+& Fine sediment
+addition
+& N/P addition","% Scraper",3,0,"BF30",0.00555555555555556
+"130","Flow reduction
+& Fine sediment
+addition
+& N/P addition","% Scraper",2,1,"BF21",0.0373983739837398
+"131","Flow reduction
+& Fine sediment
+addition
+& N/P addition","% Scraper",3,1,"BF31",0.0032520325203252
+"132","Flow reduction
+& Fine sediment
+addition
+& N/P addition","% Scraper",3,2,"BF32",0.0869565217391304
+"133","Flow reduction
+& Fine sediment
+addition
+& N/P addition","Slow flow adapt. (rel. abundance)",1,0,"BF10",1.61325966850829
+"134","Flow reduction
+& Fine sediment
+addition
+& N/P addition","Slow flow adapt. (rel. abundance)",2,0,"BF20",0.129834254143646
+"135","Flow reduction
+& Fine sediment
+addition
+& N/P addition","Slow flow adapt. (rel. abundance)",3,0,"BF30",0.0193370165745856
+"136","Flow reduction
+& Fine sediment
+addition
+& N/P addition","Slow flow adapt. (rel. abundance)",2,1,"BF21",0.0804794520547945
+"137","Flow reduction
+& Fine sediment
+addition
+& N/P addition","Slow flow adapt. (rel. abundance)",3,1,"BF31",0.011986301369863
+"138","Flow reduction
+& Fine sediment
+addition
+& N/P addition","Slow flow adapt. (rel. abundance)",3,2,"BF32",0.148936170212766
+"139","Flow reduction
+& Fine sediment
+addition
+& N/P addition","Tot. richness",1,0,"BF10",5.78767123287671
+"140","Flow reduction
+& Fine sediment
+addition
+& N/P addition","Tot. richness",2,0,"BF20",0.0616438356164384
+"141","Flow reduction
+& Fine sediment
+addition
+& N/P addition","Tot. richness",3,0,"BF30",0
+"142","Flow reduction
+& Fine sediment
+addition
+& N/P addition","Tot. richness",2,1,"BF21",0.0106508875739645
+"143","Flow reduction
+& Fine sediment
+addition
+& N/P addition","Tot. richness",3,1,"BF31",0
+"144","Flow reduction
+& Fine sediment
+addition
+& N/P addition","Tot. richness",3,2,"BF32",0
+"145","Flow reduction
+& Fine sediment
+addition
+& N/P addition","Tagument (rel. abundance)",1,0,"BF10",1.9620253164557
+"146","Flow reduction
+& Fine sediment
+addition
+& N/P addition","Tagument (rel. abundance)",2,0,"BF20",0.193037974683544
+"147","Flow reduction
+& Fine sediment
+addition
+& N/P addition","Tagument (rel. abundance)",3,0,"BF30",0.00949367088607595
+"148","Flow reduction
+& Fine sediment
+addition
+& N/P addition","Tagument (rel. abundance)",2,1,"BF21",0.0983870967741935
+"149","Flow reduction
+& Fine sediment
+addition
+& N/P addition","Tagument (rel. abundance)",3,1,"BF31",0.00483870967741936
+"150","Flow reduction
+& Fine sediment
+addition
+& N/P addition","Tagument (rel. abundance)",3,2,"BF32",0.0491803278688525
+"151","Flow reduction
+& Fine sediment
+addition
+& N/P addition","Tot. abundance",1,0,"BF10",7.88990825688073
+"152","Flow reduction
+& Fine sediment
+addition
+& N/P addition","Tot. abundance",2,0,"BF20",0.284403669724771
+"153","Flow reduction
+& Fine sediment
+addition
+& N/P addition","Tot. abundance",3,0,"BF30",0
+"154","Flow reduction
+& Fine sediment
+addition
+& N/P addition","Tot. abundance",2,1,"BF21",0.036046511627907
+"155","Flow reduction
+& Fine sediment
+addition
+& N/P addition","Tot. abundance",3,1,"BF31",0
+"156","Flow reduction
+& Fine sediment
+addition
+& N/P addition","Tot. abundance",3,2,"BF32",0
+"157","Fine sediment
+addition
+& N/P addition","EPT (abundance)",1,0,"BF10",15.448275862069
+"158","Fine sediment
+addition
+& N/P addition","EPT (abundance)",2,0,"BF20",15.8275862068966
+"159","Fine sediment
+addition
+& N/P addition","EPT (abundance)",3,0,"BF30",2.17241379310345
+"160","Fine sediment
+addition
+& N/P addition","EPT (abundance)",2,1,"BF21",1.02455357142857
+"161","Fine sediment
+addition
+& N/P addition","EPT (abundance)",3,1,"BF31",0.140625
+"162","Fine sediment
+addition
+& N/P addition","EPT (abundance)",3,2,"BF32",0.137254901960784
+"163","Fine sediment
+addition
+& N/P addition","% EPT",1,0,"BF10",10.6268656716418
+"164","Fine sediment
+addition
+& N/P addition","% EPT",2,0,"BF20",2.94029850746269
+"165","Fine sediment
+addition
+& N/P addition","% EPT",3,0,"BF30",0.358208955223881
+"166","Fine sediment
+addition
+& N/P addition","% EPT",2,1,"BF21",0.276685393258427
+"167","Fine sediment
+addition
+& N/P addition","% EPT",3,1,"BF31",0.0337078651685393
+"168","Fine sediment
+addition
+& N/P addition","% EPT",3,2,"BF32",0.121827411167513
+"169","Fine sediment
+addition
+& N/P addition","EPT (number taxa)",1,0,"BF10",4.64406779661017
+"170","Fine sediment
+addition
+& N/P addition","EPT (number taxa)",2,0,"BF20",0.00564971751412429
+"171","Fine sediment
+addition
+& N/P addition","EPT (number taxa)",3,0,"BF30",0
+"172","Fine sediment
+addition
+& N/P addition","EPT (number taxa)",2,1,"BF21",0.00121654501216545
+"173","Fine sediment
+addition
+& N/P addition","EPT (number taxa)",3,1,"BF31",0
+"174","Fine sediment
+addition
+& N/P addition","EPT (number taxa)",3,2,"BF32",0
+"175","Fine sediment
+addition
+& N/P addition","% Lotic",1,0,"BF10",16.8604651162791
+"176","Fine sediment
+addition
+& N/P addition","% Lotic",2,0,"BF20",5.2093023255814
+"177","Fine sediment
+addition
+& N/P addition","% Lotic",3,0,"BF30",0.186046511627907
+"178","Fine sediment
+addition
+& N/P addition","% Lotic",2,1,"BF21",0.308965517241379
+"179","Fine sediment
+addition
+& N/P addition","% Lotic",3,1,"BF31",0.0110344827586207
+"180","Fine sediment
+addition
+& N/P addition","% Lotic",3,2,"BF32",0.0357142857142857
+"181","Fine sediment
+addition
+& N/P addition","Fast/Slow flow (adapt., ratio)",1,0,"BF10",13.3090909090909
+"182","Fine sediment
+addition
+& N/P addition","Fast/Slow flow (adapt., ratio)",2,0,"BF20",3.58181818181818
+"183","Fine sediment
+addition
+& N/P addition","Fast/Slow flow (adapt., ratio)",3,0,"BF30",0.290909090909091
+"184","Fine sediment
+addition
+& N/P addition","Fast/Slow flow (adapt., ratio)",2,1,"BF21",0.269125683060109
+"185","Fine sediment
+addition
+& N/P addition","Fast/Slow flow (adapt., ratio)",3,1,"BF31",0.0218579234972678
+"186","Fine sediment
+addition
+& N/P addition","Fast/Slow flow (adapt., ratio)",3,2,"BF32",0.0812182741116751
+"187","Fine sediment
+addition
+& N/P addition","% Gill breather",1,0,"BF10",4.44808743169399
+"188","Fine sediment
+addition
+& N/P addition","% Gill breather",2,0,"BF20",0.0163934426229508
+"189","Fine sediment
+addition
+& N/P addition","% Gill breather",3,0,"BF30",0
+"190","Fine sediment
+addition
+& N/P addition","% Gill breather",2,1,"BF21",0.00368550368550369
+"191","Fine sediment
+addition
+& N/P addition","% Gill breather",3,1,"BF31",0
+"192","Fine sediment
+addition
+& N/P addition","% Gill breather",3,2,"BF32",0
+"193","Fine sediment
+addition
+& N/P addition","Gils/Tegument (ratio)",1,0,"BF10",3.33913043478261
+"194","Fine sediment
+addition
+& N/P addition","Gils/Tegument (ratio)",2,0,"BF20",0.00869565217391304
+"195","Fine sediment
+addition
+& N/P addition","Gils/Tegument (ratio)",3,0,"BF30",0
+"196","Fine sediment
+addition
+& N/P addition","Gils/Tegument (ratio)",2,1,"BF21",0.00260416666666667
+"197","Fine sediment
+addition
+& N/P addition","Gils/Tegument (ratio)",3,1,"BF31",0
+"198","Fine sediment
+addition
+& N/P addition","Gils/Tegument (ratio)",3,2,"BF32",0
+"199","Fine sediment
+addition
+& N/P addition","Non EPT fast flow (adapt., rel. abd.)",1,0,"BF10",10.710843373494
+"200","Fine sediment
+addition
+& N/P addition","Non EPT fast flow (adapt., rel. abd.)",2,0,"BF20",0.337349397590361
+"201","Fine sediment
+addition
+& N/P addition","Non EPT fast flow (adapt., rel. abd.)",3,0,"BF30",0
+"202","Fine sediment
+addition
+& N/P addition","Non EPT fast flow (adapt., rel. abd.)",2,1,"BF21",0.031496062992126
+"203","Fine sediment
+addition
+& N/P addition","Non EPT fast flow (adapt., rel. abd.)",3,1,"BF31",0
+"204","Fine sediment
+addition
+& N/P addition","Non EPT fast flow (adapt., rel. abd.)",3,2,"BF32",0
+"205","Fine sediment
+addition
+& N/P addition","% Scraper",1,0,"BF10",6.58778625954198
+"206","Fine sediment
+addition
+& N/P addition","% Scraper",2,0,"BF20",0.0458015267175573
+"207","Fine sediment
+addition
+& N/P addition","% Scraper",3,0,"BF30",0
+"208","Fine sediment
+addition
+& N/P addition","% Scraper",2,1,"BF21",0.00695249130938586
+"209","Fine sediment
+addition
+& N/P addition","% Scraper",3,1,"BF31",0
+"210","Fine sediment
+addition
+& N/P addition","% Scraper",3,2,"BF32",0
+"211","Fine sediment
+addition
+& N/P addition","Slow flow adapt. (rel. abundance)",1,0,"BF10",0.806569343065693
+"212","Fine sediment
+addition
+& N/P addition","Slow flow adapt. (rel. abundance)",2,0,"BF20",0.0182481751824818
+"213","Fine sediment
+addition
+& N/P addition","Slow flow adapt. (rel. abundance)",3,0,"BF30",0
+"214","Fine sediment
+addition
+& N/P addition","Slow flow adapt. (rel. abundance)",2,1,"BF21",0.0226244343891403
+"215","Fine sediment
+addition
+& N/P addition","Slow flow adapt. (rel. abundance)",3,1,"BF31",0
+"216","Fine sediment
+addition
+& N/P addition","Slow flow adapt. (rel. abundance)",3,2,"BF32",0
+"217","Fine sediment
+addition
+& N/P addition","Tot. richness",1,0,"BF10",3.5
+"218","Fine sediment
+addition
+& N/P addition","Tot. richness",2,0,"BF20",0.0045045045045045
+"219","Fine sediment
+addition
+& N/P addition","Tot. richness",3,0,"BF30",0
+"220","Fine sediment
+addition
+& N/P addition","Tot. richness",2,1,"BF21",0.00128700128700129
+"221","Fine sediment
+addition
+& N/P addition","Tot. richness",3,1,"BF31",0
+"222","Fine sediment
+addition
+& N/P addition","Tot. richness",3,2,"BF32",0
+"223","Fine sediment
+addition
+& N/P addition","Tagument (rel. abundance)",1,0,"BF10",0.349527665317139
+"224","Fine sediment
+addition
+& N/P addition","Tagument (rel. abundance)",2,0,"BF20",0
+"225","Fine sediment
+addition
+& N/P addition","Tagument (rel. abundance)",3,0,"BF30",0
+"226","Fine sediment
+addition
+& N/P addition","Tagument (rel. abundance)",2,1,"BF21",0
+"227","Fine sediment
+addition
+& N/P addition","Tagument (rel. abundance)",3,1,"BF31",0
+"228","Fine sediment
+addition
+& N/P addition","Tagument (rel. abundance)",3,2,"BF32",NA
+"229","Fine sediment
+addition
+& N/P addition","Tot. abundance",1,0,"BF10",27.5882352941176
+"230","Fine sediment
+addition
+& N/P addition","Tot. abundance",2,0,"BF20",0.823529411764706
+"231","Fine sediment
+addition
+& N/P addition","Tot. abundance",3,0,"BF30",0
+"232","Fine sediment
+addition
+& N/P addition","Tot. abundance",2,1,"BF21",0.0298507462686567
+"233","Fine sediment
+addition
+& N/P addition","Tot. abundance",3,1,"BF31",0
+"234","Fine sediment
+addition
+& N/P addition","Tot. abundance",3,2,"BF32",0
+"235","Fine sediment
+addition","EPT (abundance)",1,0,"BF10",20.44
+"236","Fine sediment
+addition","EPT (abundance)",2,0,"BF20",16.04
+"237","Fine sediment
+addition","EPT (abundance)",3,0,"BF30",2.52
+"238","Fine sediment
+addition","EPT (abundance)",2,1,"BF21",0.784735812133072
+"239","Fine sediment
+addition","EPT (abundance)",3,1,"BF31",0.123287671232877
+"240","Fine sediment
+addition","EPT (abundance)",3,2,"BF32",0.157107231920199
+"241","Fine sediment
+addition","% EPT",1,0,"BF10",12.3125
+"242","Fine sediment
+addition","% EPT",2,0,"BF20",6.0625
+"243","Fine sediment
+addition","% EPT",3,0,"BF30",1.47916666666667
+"244","Fine sediment
+addition","% EPT",2,1,"BF21",0.49238578680203
+"245","Fine sediment
+addition","% EPT",3,1,"BF31",0.120135363790186
+"246","Fine sediment
+addition","% EPT",3,2,"BF32",0.243986254295533
+"247","Fine sediment
+addition","EPT (number taxa)",1,0,"BF10",8.41509433962264
+"248","Fine sediment
+addition","EPT (number taxa)",2,0,"BF20",0.0188679245283019
+"249","Fine sediment
+addition","EPT (number taxa)",3,0,"BF30",0
+"250","Fine sediment
+addition","EPT (number taxa)",2,1,"BF21",0.00224215246636771
+"251","Fine sediment
+addition","EPT (number taxa)",3,1,"BF31",0
+"252","Fine sediment
+addition","EPT (number taxa)",3,2,"BF32",0
+"253","Fine sediment
+addition","% Lotic",1,0,"BF10",47.6
+"254","Fine sediment
+addition","% Lotic",2,0,"BF20",44.6
+"255","Fine sediment
+addition","% Lotic",3,0,"BF30",6.8
+"256","Fine sediment
+addition","% Lotic",2,1,"BF21",0.936974789915966
+"257","Fine sediment
+addition","% Lotic",3,1,"BF31",0.142857142857143
+"258","Fine sediment
+addition","% Lotic",3,2,"BF32",0.152466367713004
+"259","Fine sediment
+addition","Fast/Slow flow (adapt., ratio)",1,0,"BF10",58.5714285714286
+"260","Fine sediment
+addition","Fast/Slow flow (adapt., ratio)",2,0,"BF20",76.5714285714286
+"261","Fine sediment
+addition","Fast/Slow flow (adapt., ratio)",3,0,"BF30",6.71428571428571
+"262","Fine sediment
+addition","Fast/Slow flow (adapt., ratio)",2,1,"BF21",1.30731707317073
+"263","Fine sediment
+addition","Fast/Slow flow (adapt., ratio)",3,1,"BF31",0.114634146341463
+"264","Fine sediment
+addition","Fast/Slow flow (adapt., ratio)",3,2,"BF32",0.0876865671641791
+"265","Fine sediment
+addition","% Gill breather",1,0,"BF10",13.0597014925373
+"266","Fine sediment
+addition","% Gill breather",2,0,"BF20",0.865671641791045
+"267","Fine sediment
+addition","% Gill breather",3,0,"BF30",0
+"268","Fine sediment
+addition","% Gill breather",2,1,"BF21",0.0662857142857143
+"269","Fine sediment
+addition","% Gill breather",3,1,"BF31",0
+"270","Fine sediment
+addition","% Gill breather",3,2,"BF32",0
+"271","Fine sediment
+addition","Gils/Tegument (ratio)",1,0,"BF10",10.1149425287356
+"272","Fine sediment
+addition","Gils/Tegument (ratio)",2,0,"BF20",0.379310344827586
+"273","Fine sediment
+addition","Gils/Tegument (ratio)",3,0,"BF30",0
+"274","Fine sediment
+addition","Gils/Tegument (ratio)",2,1,"BF21",0.0375
+"275","Fine sediment
+addition","Gils/Tegument (ratio)",3,1,"BF31",0
+"276","Fine sediment
+addition","Gils/Tegument (ratio)",3,2,"BF32",0
+"277","Fine sediment
+addition","Non EPT fast flow (adapt., rel. abd.)",1,0,"BF10",89.7777777777778
+"278","Fine sediment
+addition","Non EPT fast flow (adapt., rel. abd.)",2,0,"BF20",20.2222222222222
+"279","Fine sediment
+addition","Non EPT fast flow (adapt., rel. abd.)",3,0,"BF30",0.222222222222222
+"280","Fine sediment
+addition","Non EPT fast flow (adapt., rel. abd.)",2,1,"BF21",0.225247524752475
+"281","Fine sediment
+addition","Non EPT fast flow (adapt., rel. abd.)",3,1,"BF31",0.00247524752475248
+"282","Fine sediment
+addition","Non EPT fast flow (adapt., rel. abd.)",3,2,"BF32",0.010989010989011
+"283","Fine sediment
+addition","% Scraper",1,0,"BF10",24.6578947368421
+"284","Fine sediment
+addition","% Scraper",2,0,"BF20",0.631578947368421
+"285","Fine sediment
+addition","% Scraper",3,0,"BF30",0
+"286","Fine sediment
+addition","% Scraper",2,1,"BF21",0.0256136606189968
+"287","Fine sediment
+addition","% Scraper",3,1,"BF31",0
+"288","Fine sediment
+addition","% Scraper",3,2,"BF32",0
+"289","Fine sediment
+addition","Slow flow adapt. (rel. abundance)",1,0,"BF10",0.561128526645768
+"290","Fine sediment
+addition","Slow flow adapt. (rel. abundance)",2,0,"BF20",0.00626959247648903
+"291","Fine sediment
+addition","Slow flow adapt. (rel. abundance)",3,0,"BF30",0
+"292","Fine sediment
+addition","Slow flow adapt. (rel. abundance)",2,1,"BF21",0.0111731843575419
+"293","Fine sediment
+addition","Slow flow adapt. (rel. abundance)",3,1,"BF31",0
+"294","Fine sediment
+addition","Slow flow adapt. (rel. abundance)",3,2,"BF32",0
+"295","Fine sediment
+addition","Tot. richness",1,0,"BF10",7.47457627118644
+"296","Fine sediment
+addition","Tot. richness",2,0,"BF20",0
+"297","Fine sediment
+addition","Tot. richness",3,0,"BF30",0
+"298","Fine sediment
+addition","Tot. richness",2,1,"BF21",0
+"299","Fine sediment
+addition","Tot. richness",3,1,"BF31",0
+"300","Fine sediment
+addition","Tot. richness",3,2,"BF32",NA
+"301","Fine sediment
+addition","Tagument (rel. abundance)",1,0,"BF10",0.464128843338214
+"302","Fine sediment
+addition","Tagument (rel. abundance)",2,0,"BF20",0
+"303","Fine sediment
+addition","Tagument (rel. abundance)",3,0,"BF30",0
+"304","Fine sediment
+addition","Tagument (rel. abundance)",2,1,"BF21",0
+"305","Fine sediment
+addition","Tagument (rel. abundance)",3,1,"BF31",0
+"306","Fine sediment
+addition","Tagument (rel. abundance)",3,2,"BF32",NA
+"307","Fine sediment
+addition","Tot. abundance",1,0,"BF10",2.40955631399317
+"308","Fine sediment
+addition","Tot. abundance",2,0,"BF20",0
+"309","Fine sediment
+addition","Tot. abundance",3,0,"BF30",0
+"310","Fine sediment
+addition","Tot. abundance",2,1,"BF21",0
+"311","Fine sediment
+addition","Tot. abundance",3,1,"BF31",0
+"312","Fine sediment
+addition","Tot. abundance",3,2,"BF32",NA
+"313","Flow reduction","EPT (abundance)",1,0,"BF10",2.07384615384615
+"314","Flow reduction","EPT (abundance)",2,0,"BF20",0.00307692307692308
+"315","Flow reduction","EPT (abundance)",3,0,"BF30",0
+"316","Flow reduction","EPT (abundance)",2,1,"BF21",0.00148367952522255
+"317","Flow reduction","EPT (abundance)",3,1,"BF31",0
+"318","Flow reduction","EPT (abundance)",3,2,"BF32",0
+"319","Flow reduction","% EPT",1,0,"BF10",4.81764705882353
+"320","Flow reduction","% EPT",2,0,"BF20",0.0647058823529412
+"321","Flow reduction","% EPT",3,0,"BF30",0
+"322","Flow reduction","% EPT",2,1,"BF21",0.0134310134310134
+"323","Flow reduction","% EPT",3,1,"BF31",0
+"324","Flow reduction","% EPT",3,2,"BF32",0
+"325","Flow reduction","EPT (number taxa)",1,0,"BF10",1.47524752475248
+"326","Flow reduction","EPT (number taxa)",2,0,"BF20",0
+"327","Flow reduction","EPT (number taxa)",3,0,"BF30",0
+"328","Flow reduction","EPT (number taxa)",2,1,"BF21",0
+"329","Flow reduction","EPT (number taxa)",3,1,"BF31",0
+"330","Flow reduction","EPT (number taxa)",3,2,"BF32",NA
+"331","Flow reduction","% Lotic",1,0,"BF10",1.94642857142857
+"332","Flow reduction","% Lotic",2,0,"BF20",0.0267857142857143
+"333","Flow reduction","% Lotic",3,0,"BF30",0
+"334","Flow reduction","% Lotic",2,1,"BF21",0.0137614678899083
+"335","Flow reduction","% Lotic",3,1,"BF31",0
+"336","Flow reduction","% Lotic",3,2,"BF32",0
+"337","Flow reduction","Fast/Slow flow (adapt., ratio)",1,0,"BF10",1.92899408284024
+"338","Flow reduction","Fast/Slow flow (adapt., ratio)",2,0,"BF20",0.0266272189349112
+"339","Flow reduction","Fast/Slow flow (adapt., ratio)",3,0,"BF30",0
+"340","Flow reduction","Fast/Slow flow (adapt., ratio)",2,1,"BF21",0.0138036809815951
+"341","Flow reduction","Fast/Slow flow (adapt., ratio)",3,1,"BF31",0
+"342","Flow reduction","Fast/Slow flow (adapt., ratio)",3,2,"BF32",0
+"343","Flow reduction","% Gill breather",1,0,"BF10",1.85100286532951
+"344","Flow reduction","% Gill breather",2,0,"BF20",0.0143266475644699
+"345","Flow reduction","% Gill breather",3,0,"BF30",0
+"346","Flow reduction","% Gill breather",2,1,"BF21",0.00773993808049536
+"347","Flow reduction","% Gill breather",3,1,"BF31",0
+"348","Flow reduction","% Gill breather",3,2,"BF32",0
+"349","Flow reduction","Gils/Tegument (ratio)",1,0,"BF10",2.08024691358025
+"350","Flow reduction","Gils/Tegument (ratio)",2,0,"BF20",0.00617283950617284
+"351","Flow reduction","Gils/Tegument (ratio)",3,0,"BF30",0
+"352","Flow reduction","Gils/Tegument (ratio)",2,1,"BF21",0.0029673590504451
+"353","Flow reduction","Gils/Tegument (ratio)",3,1,"BF31",0
+"354","Flow reduction","Gils/Tegument (ratio)",3,2,"BF32",0
+"355","Flow reduction","Non EPT fast flow (adapt., rel. abd.)",1,0,"BF10",1.61477572559367
+"356","Flow reduction","Non EPT fast flow (adapt., rel. abd.)",2,0,"BF20",0.0211081794195251
+"357","Flow reduction","Non EPT fast flow (adapt., rel. abd.)",3,0,"BF30",0.00527704485488127
+"358","Flow reduction","Non EPT fast flow (adapt., rel. abd.)",2,1,"BF21",0.0130718954248366
+"359","Flow reduction","Non EPT fast flow (adapt., rel. abd.)",3,1,"BF31",0.00326797385620915
+"360","Flow reduction","Non EPT fast flow (adapt., rel. abd.)",3,2,"BF32",0.25
+"361","Flow reduction","% Scraper",1,0,"BF10",0.572327044025157
+"362","Flow reduction","% Scraper",2,0,"BF20",0
+"363","Flow reduction","% Scraper",3,0,"BF30",0
+"364","Flow reduction","% Scraper",2,1,"BF21",0
+"365","Flow reduction","% Scraper",3,1,"BF31",0
+"366","Flow reduction","% Scraper",3,2,"BF32",NA
+"367","Flow reduction","Slow flow adapt. (rel. abundance)",1,0,"BF10",0.754385964912281
+"368","Flow reduction","Slow flow adapt. (rel. abundance)",2,0,"BF20",0
+"369","Flow reduction","Slow flow adapt. (rel. abundance)",3,0,"BF30",0
+"370","Flow reduction","Slow flow adapt. (rel. abundance)",2,1,"BF21",0
+"371","Flow reduction","Slow flow adapt. (rel. abundance)",3,1,"BF31",0
+"372","Flow reduction","Slow flow adapt. (rel. abundance)",3,2,"BF32",NA
+"373","Flow reduction","Tot. richness",1,0,"BF10",0.683501683501684
+"374","Flow reduction","Tot. richness",2,0,"BF20",0
+"375","Flow reduction","Tot. richness",3,0,"BF30",0
+"376","Flow reduction","Tot. richness",2,1,"BF21",0
+"377","Flow reduction","Tot. richness",3,1,"BF31",0
+"378","Flow reduction","Tot. richness",3,2,"BF32",NA
+"379","Flow reduction","Tagument (rel. abundance)",1,0,"BF10",0.886363636363636
+"380","Flow reduction","Tagument (rel. abundance)",2,0,"BF20",0.00757575757575758
+"381","Flow reduction","Tagument (rel. abundance)",3,0,"BF30",0
+"382","Flow reduction","Tagument (rel. abundance)",2,1,"BF21",0.00854700854700855
+"383","Flow reduction","Tagument (rel. abundance)",3,1,"BF31",0
+"384","Flow reduction","Tagument (rel. abundance)",3,2,"BF32",0
+"385","Flow reduction","Tot. abundance",1,0,"BF10",0.364256480218281
+"386","Flow reduction","Tot. abundance",2,0,"BF20",0
+"387","Flow reduction","Tot. abundance",3,0,"BF30",0
+"388","Flow reduction","Tot. abundance",2,1,"BF21",0
+"389","Flow reduction","Tot. abundance",3,1,"BF31",0
+"390","Flow reduction","Tot. abundance",3,2,"BF32",NA
+"391","Flow reduction
+& N/P addition","EPT (abundance)",1,0,"BF10",3.28193832599119
+"392","Flow reduction
+& N/P addition","EPT (abundance)",2,0,"BF20",0.114537444933921
+"393","Flow reduction
+& N/P addition","EPT (abundance)",3,0,"BF30",0.00881057268722467
+"394","Flow reduction
+& N/P addition","EPT (abundance)",2,1,"BF21",0.0348993288590604
+"395","Flow reduction
+& N/P addition","EPT (abundance)",3,1,"BF31",0.00268456375838926
+"396","Flow reduction
+& N/P addition","EPT (abundance)",3,2,"BF32",0.0769230769230769
+"397","Flow reduction
+& N/P addition","% EPT",1,0,"BF10",2.98770491803279
+"398","Flow reduction
+& N/P addition","% EPT",2,0,"BF20",0.102459016393443
+"399","Flow reduction
+& N/P addition","% EPT",3,0,"BF30",0.00819672131147541
+"400","Flow reduction
+& N/P addition","% EPT",2,1,"BF21",0.0342935528120713
+"401","Flow reduction
+& N/P addition","% EPT",3,1,"BF31",0.00274348422496571
+"402","Flow reduction
+& N/P addition","% EPT",3,2,"BF32",0.08
+"403","Flow reduction
+& N/P addition","EPT (number taxa)",1,0,"BF10",1.63324538258575
+"404","Flow reduction
+& N/P addition","EPT (number taxa)",2,0,"BF20",0.00527704485488127
+"405","Flow reduction
+& N/P addition","EPT (number taxa)",3,0,"BF30",0
+"406","Flow reduction
+& N/P addition","EPT (number taxa)",2,1,"BF21",0.00323101777059774
+"407","Flow reduction
+& N/P addition","EPT (number taxa)",3,1,"BF31",0
+"408","Flow reduction
+& N/P addition","EPT (number taxa)",3,2,"BF32",0
+"409","Flow reduction
+& N/P addition","% Lotic",1,0,"BF10",3.86111111111111
+"410","Flow reduction
+& N/P addition","% Lotic",2,0,"BF20",0.583333333333333
+"411","Flow reduction
+& N/P addition","% Lotic",3,0,"BF30",0.116666666666667
+"412","Flow reduction
+& N/P addition","% Lotic",2,1,"BF21",0.151079136690647
+"413","Flow reduction
+& N/P addition","% Lotic",3,1,"BF31",0.0302158273381295
+"414","Flow reduction
+& N/P addition","% Lotic",3,2,"BF32",0.2
+"415","Flow reduction
+& N/P addition","Fast/Slow flow (adapt., ratio)",1,0,"BF10",4.23837209302326
+"416","Flow reduction
+& N/P addition","Fast/Slow flow (adapt., ratio)",2,0,"BF20",0.534883720930233
+"417","Flow reduction
+& N/P addition","Fast/Slow flow (adapt., ratio)",3,0,"BF30",0.0406976744186047
+"418","Flow reduction
+& N/P addition","Fast/Slow flow (adapt., ratio)",2,1,"BF21",0.126200274348422
+"419","Flow reduction
+& N/P addition","Fast/Slow flow (adapt., ratio)",3,1,"BF31",0.00960219478737997
+"420","Flow reduction
+& N/P addition","Fast/Slow flow (adapt., ratio)",3,2,"BF32",0.0760869565217391
+"421","Flow reduction
+& N/P addition","% Gill breather",1,0,"BF10",1.54263565891473
+"422","Flow reduction
+& N/P addition","% Gill breather",2,0,"BF20",0.0361757105943152
+"423","Flow reduction
+& N/P addition","% Gill breather",3,0,"BF30",0.00775193798449612
+"424","Flow reduction
+& N/P addition","% Gill breather",2,1,"BF21",0.0234505862646566
+"425","Flow reduction
+& N/P addition","% Gill breather",3,1,"BF31",0.0050251256281407
+"426","Flow reduction
+& N/P addition","% Gill breather",3,2,"BF32",0.214285714285714
+"427","Flow reduction
+& N/P addition","Gils/Tegument (ratio)",1,0,"BF10",1.66937669376694
+"428","Flow reduction
+& N/P addition","Gils/Tegument (ratio)",2,0,"BF20",0.040650406504065
+"429","Flow reduction
+& N/P addition","Gils/Tegument (ratio)",3,0,"BF30",0.002710027100271
+"430","Flow reduction
+& N/P addition","Gils/Tegument (ratio)",2,1,"BF21",0.0243506493506493
+"431","Flow reduction
+& N/P addition","Gils/Tegument (ratio)",3,1,"BF31",0.00162337662337662
+"432","Flow reduction
+& N/P addition","Gils/Tegument (ratio)",3,2,"BF32",0.0666666666666667
+"433","Flow reduction
+& N/P addition","Non EPT fast flow (adapt., rel. abd.)",1,0,"BF10",4.07407407407407
+"434","Flow reduction
+& N/P addition","Non EPT fast flow (adapt., rel. abd.)",2,0,"BF20",0.216931216931217
+"435","Flow reduction
+& N/P addition","Non EPT fast flow (adapt., rel. abd.)",3,0,"BF30",0.00529100529100529
+"436","Flow reduction
+& N/P addition","Non EPT fast flow (adapt., rel. abd.)",2,1,"BF21",0.0532467532467533
+"437","Flow reduction
+& N/P addition","Non EPT fast flow (adapt., rel. abd.)",3,1,"BF31",0.0012987012987013
+"438","Flow reduction
+& N/P addition","Non EPT fast flow (adapt., rel. abd.)",3,2,"BF32",0.024390243902439
+"439","Flow reduction
+& N/P addition","% Scraper",1,0,"BF10",0.853932584269663
+"440","Flow reduction
+& N/P addition","% Scraper",2,0,"BF20",0.0149812734082397
+"441","Flow reduction
+& N/P addition","% Scraper",3,0,"BF30",0.00187265917602996
+"442","Flow reduction
+& N/P addition","% Scraper",2,1,"BF21",0.0175438596491228
+"443","Flow reduction
+& N/P addition","% Scraper",3,1,"BF31",0.00219298245614035
+"444","Flow reduction
+& N/P addition","% Scraper",3,2,"BF32",0.125
+"445","Flow reduction
+& N/P addition","Slow flow adapt. (rel. abundance)",1,0,"BF10",1.36609336609337
+"446","Flow reduction
+& N/P addition","Slow flow adapt. (rel. abundance)",2,0,"BF20",0.0737100737100737
+"447","Flow reduction
+& N/P addition","Slow flow adapt. (rel. abundance)",3,0,"BF30",0.0147420147420147
+"448","Flow reduction
+& N/P addition","Slow flow adapt. (rel. abundance)",2,1,"BF21",0.0539568345323741
+"449","Flow reduction
+& N/P addition","Slow flow adapt. (rel. abundance)",3,1,"BF31",0.0107913669064748
+"450","Flow reduction
+& N/P addition","Slow flow adapt. (rel. abundance)",3,2,"BF32",0.2
+"451","Flow reduction
+& N/P addition","Tot. richness",1,0,"BF10",5.33974358974359
+"452","Flow reduction
+& N/P addition","Tot. richness",2,0,"BF20",0.0641025641025641
+"453","Flow reduction
+& N/P addition","Tot. richness",3,0,"BF30",0.00641025641025641
+"454","Flow reduction
+& N/P addition","Tot. richness",2,1,"BF21",0.0120048019207683
+"455","Flow reduction
+& N/P addition","Tot. richness",3,1,"BF31",0.00120048019207683
+"456","Flow reduction
+& N/P addition","Tot. richness",3,2,"BF32",0.1
+"457","Flow reduction
+& N/P addition","Tagument (rel. abundance)",1,0,"BF10",1.76404494382022
+"458","Flow reduction
+& N/P addition","Tagument (rel. abundance)",2,0,"BF20",0.0449438202247191
+"459","Flow reduction
+& N/P addition","Tagument (rel. abundance)",3,0,"BF30",0
+"460","Flow reduction
+& N/P addition","Tagument (rel. abundance)",2,1,"BF21",0.0254777070063694
+"461","Flow reduction
+& N/P addition","Tagument (rel. abundance)",3,1,"BF31",0
+"462","Flow reduction
+& N/P addition","Tagument (rel. abundance)",3,2,"BF32",0
+"463","Flow reduction
+& N/P addition","Tot. abundance",1,0,"BF10",2.32333333333333
+"464","Flow reduction
+& N/P addition","Tot. abundance",2,0,"BF20",0.01
+"465","Flow reduction
+& N/P addition","Tot. abundance",3,0,"BF30",0
+"466","Flow reduction
+& N/P addition","Tot. abundance",2,1,"BF21",0.00430416068866571
+"467","Flow reduction
+& N/P addition","Tot. abundance",3,1,"BF31",0
+"468","Flow reduction
+& N/P addition","Tot. abundance",3,2,"BF32",0
+"469","N/P addition","EPT (abundance)",1,0,"BF10",3.76190476190476
+"470","N/P addition","EPT (abundance)",2,0,"BF20",0
+"471","N/P addition","EPT (abundance)",3,0,"BF30",0
+"472","N/P addition","EPT (abundance)",2,1,"BF21",0
+"473","N/P addition","EPT (abundance)",3,1,"BF31",0
+"474","N/P addition","EPT (abundance)",3,2,"BF32",NA
+"475","N/P addition","% EPT",1,0,"BF10",6.33823529411765
+"476","N/P addition","% EPT",2,0,"BF20",0.00735294117647059
+"477","N/P addition","% EPT",3,0,"BF30",0
+"478","N/P addition","% EPT",2,1,"BF21",0.00116009280742459
+"479","N/P addition","% EPT",3,1,"BF31",0
+"480","N/P addition","% EPT",3,2,"BF32",0
+"481","N/P addition","EPT (number taxa)",1,0,"BF10",0.488095238095238
+"482","N/P addition","EPT (number taxa)",2,0,"BF20",0
+"483","N/P addition","EPT (number taxa)",3,0,"BF30",0
+"484","N/P addition","EPT (number taxa)",2,1,"BF21",0
+"485","N/P addition","EPT (number taxa)",3,1,"BF31",0
+"486","N/P addition","EPT (number taxa)",3,2,"BF32",NA
+"487","N/P addition","% Lotic",1,0,"BF10",32.1333333333333
+"488","N/P addition","% Lotic",2,0,"BF20",0.2
+"489","N/P addition","% Lotic",3,0,"BF30",0
+"490","N/P addition","% Lotic",2,1,"BF21",0.00622406639004149
+"491","N/P addition","% Lotic",3,1,"BF31",0
+"492","N/P addition","% Lotic",3,2,"BF32",0
+"493","N/P addition","Fast/Slow flow (adapt., ratio)",1,0,"BF10",29.90625
+"494","N/P addition","Fast/Slow flow (adapt., ratio)",2,0,"BF20",0.34375
+"495","N/P addition","Fast/Slow flow (adapt., ratio)",3,0,"BF30",0
+"496","N/P addition","Fast/Slow flow (adapt., ratio)",2,1,"BF21",0.0114942528735632
+"497","N/P addition","Fast/Slow flow (adapt., ratio)",3,1,"BF31",0
+"498","N/P addition","Fast/Slow flow (adapt., ratio)",3,2,"BF32",0
+"499","N/P addition","% Gill breather",1,0,"BF10",2.01204819277108
+"500","N/P addition","% Gill breather",2,0,"BF20",0
+"501","N/P addition","% Gill breather",3,0,"BF30",0
+"502","N/P addition","% Gill breather",2,1,"BF21",0
+"503","N/P addition","% Gill breather",3,1,"BF31",0
+"504","N/P addition","% Gill breather",3,2,"BF32",NA
+"505","N/P addition","Gils/Tegument (ratio)",1,0,"BF10",1.92105263157895
+"506","N/P addition","Gils/Tegument (ratio)",2,0,"BF20",0.00292397660818713
+"507","N/P addition","Gils/Tegument (ratio)",3,0,"BF30",0
+"508","N/P addition","Gils/Tegument (ratio)",2,1,"BF21",0.0015220700152207
+"509","N/P addition","Gils/Tegument (ratio)",3,1,"BF31",0
+"510","N/P addition","Gils/Tegument (ratio)",3,2,"BF32",0
+"511","N/P addition","Non EPT fast flow (adapt., rel. abd.)",1,0,"BF10",12.1184210526316
+"512","N/P addition","Non EPT fast flow (adapt., rel. abd.)",2,0,"BF20",0.0263157894736842
+"513","N/P addition","Non EPT fast flow (adapt., rel. abd.)",3,0,"BF30",0
+"514","N/P addition","Non EPT fast flow (adapt., rel. abd.)",2,1,"BF21",0.00217155266015201
+"515","N/P addition","Non EPT fast flow (adapt., rel. abd.)",3,1,"BF31",0
+"516","N/P addition","Non EPT fast flow (adapt., rel. abd.)",3,2,"BF32",0
+"517","N/P addition","% Scraper",1,0,"BF10",0.76056338028169
+"518","N/P addition","% Scraper",2,0,"BF20",0
+"519","N/P addition","% Scraper",3,0,"BF30",0
+"520","N/P addition","% Scraper",2,1,"BF21",0
+"521","N/P addition","% Scraper",3,1,"BF31",0
+"522","N/P addition","% Scraper",3,2,"BF32",NA
+"523","N/P addition","Slow flow adapt. (rel. abundance)",1,0,"BF10",0.290322580645161
+"524","N/P addition","Slow flow adapt. (rel. abundance)",2,0,"BF20",0
+"525","N/P addition","Slow flow adapt. (rel. abundance)",3,0,"BF30",0
+"526","N/P addition","Slow flow adapt. (rel. abundance)",2,1,"BF21",0
+"527","N/P addition","Slow flow adapt. (rel. abundance)",3,1,"BF31",0
+"528","N/P addition","Slow flow adapt. (rel. abundance)",3,2,"BF32",NA
+"529","N/P addition","Tot. richness",1,0,"BF10",0.285347043701799
+"530","N/P addition","Tot. richness",2,0,"BF20",0
+"531","N/P addition","Tot. richness",3,0,"BF30",0
+"532","N/P addition","Tot. richness",2,1,"BF21",0
+"533","N/P addition","Tot. richness",3,1,"BF31",0
+"534","N/P addition","Tot. richness",3,2,"BF32",NA
+"535","N/P addition","Tagument (rel. abundance)",1,0,"BF10",0.2531328320802
+"536","N/P addition","Tagument (rel. abundance)",2,0,"BF20",0
+"537","N/P addition","Tagument (rel. abundance)",3,0,"BF30",0
+"538","N/P addition","Tagument (rel. abundance)",2,1,"BF21",0
+"539","N/P addition","Tagument (rel. abundance)",3,1,"BF31",0
+"540","N/P addition","Tagument (rel. abundance)",3,2,"BF32",NA
+"541","N/P addition","Tot. abundance",1,0,"BF10",0.45985401459854
+"542","N/P addition","Tot. abundance",2,0,"BF20",0
+"543","N/P addition","Tot. abundance",3,0,"BF30",0
+"544","N/P addition","Tot. abundance",2,1,"BF21",0
+"545","N/P addition","Tot. abundance",3,1,"BF31",0
+"546","N/P addition","Tot. abundance",3,2,"BF32",NA
